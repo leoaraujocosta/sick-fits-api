@@ -43,5 +43,6 @@ haters/
 Thumbs.db
 
 .env
+variables.env
 layout.md
 variables.env
