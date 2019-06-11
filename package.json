@@ -11,9 +11,9 @@
     "dev": "npm-run-all --parallel debug playground"
   },
   "engines": {
-    "node": "10.6.0",
+    "node": "10.16.0",
     "npm": "6.4.1",
-    "yarn": "1.13.0"
+    "yarn": "1.16.0"
   },
   "dependencies": {
     "babel-preset-env": "1.7.0",
