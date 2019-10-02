@@ -1,4 +1,4 @@
-require("dotenv").config({ path: "variable.env" });
+require("dotenv").config({ path: "variables.env" });
 const { Prisma } = require("prisma-binding");
 
 const db = new Prisma({
